@@ -15,19 +15,19 @@
 
 ---
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-t11&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin Thumbar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-t11&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KevinThumbar&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-</td>
-</tr>
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 50%; padding: 10px;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-t11&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin Thumbar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-t11&theme=dark&hide_border=false" />
+    </td>
+    <td align="center" style="width: 50%; padding: 10px;">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevin-t11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
