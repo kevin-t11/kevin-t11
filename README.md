@@ -12,7 +12,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **NextJs.**
+- 🔭 I’m currently working on **Builing Smart Contracts**
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
