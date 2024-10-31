@@ -72,14 +72,11 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://bitbucket.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket" width="40" height="40"/>
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://shadcn.com/og.jpg" alt="shadcn" title="shadcn" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" width="40" height="40"/>
