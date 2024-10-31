@@ -15,6 +15,15 @@
 
 ---
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-itsflash10.vercel.app/api?username=kevin-t11&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=kevin-t11&theme=radical&hide_border=true" alt="kevin-t11" /></td>
+  </tr>
+</table>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
