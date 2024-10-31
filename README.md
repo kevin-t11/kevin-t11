@@ -27,7 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kevin-t11&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-t11&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  
 </div>
 
 ## 🛠️ Languages and Tools
