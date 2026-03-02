@@ -24,8 +24,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kevin-t11&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kevin-t11&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kevin-t11&show_icons=true&theme=radical&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kevin-t11&theme=radical&hide_border=true" height="190"/>
+</div>
 
 ## 🛠️ Languages and Tools
 
