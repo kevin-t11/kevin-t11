@@ -16,12 +16,6 @@
 - 📫 How to reach me: **kevthummar178@gmail.com**
 - 🌐 [Portfolio](https://kevincodes.vercel.app) — Explore my journey, projects, and blogs all in one place!
 
-## 💻 Featured Projects
-
-- [Jolt Connect](https://github.com/kevin-t11/jolt-connect) - A powerful automation platform
-- [SecurePurse](https://securepurse.vercel.app/) - Secure financial management solution
-- [Backpack-Exchange](https://github.com/kevin-t11/backpack-exchange) - Cryptocurrency exchange platform
-
 ## 📊 GitHub Stats
 
 <table align="center">
