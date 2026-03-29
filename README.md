@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning everything xD
 - ⚡ Fun fact: **I love tech, music, and sports**
 - 📫 How to reach me: **kevthummar178@gmail.com**
-- 🌐 [Portfolio](https://kevincodes.vercel.app) — Explore my journey, projects, and blogs all in one place!
+- 🌐 [Portfolio](https://kevinnn.xyz) — Explore my journey, projects, and blogs all in one place!
 
 ## 📊 GitHub Stats
 
