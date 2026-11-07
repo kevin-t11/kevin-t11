@@ -16,6 +16,11 @@
 - 📫 How to reach me: **kevthummar178@gmail.com**
 - 🌐 [Portfolio](https://kevinnn.xyz) — Explore my journey, projects, and blogs all in one place!
 
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kevin-t11&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kevin-t11&theme=tokyonight)
+
 ## 🤝 Connect with me
 
 <p align="left">
