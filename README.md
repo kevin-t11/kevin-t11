@@ -18,10 +18,10 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kevin-t11&show_icons=true&theme=tokyonight" height="195" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kevin-t11&theme=tokyonight" height="195" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kevin-t11&show_icons=true&theme=tokyonight" width="380" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kevin-t11&theme=tokyonight" width="410" height="160" />
+</div>
 
 ## 🤝 Connect with me
 
